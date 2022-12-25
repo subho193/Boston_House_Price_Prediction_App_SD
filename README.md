@@ -6,7 +6,7 @@
 3. [Render Account](https://render.com/)
 4. [GitCLI](https://git-scm.com/docs/gitcli)
 
-### Step 1 : Create a new virtual environment for our project
+## Step 1 : Create a new virtual environment for our project
 
-# command for creating virtual environment : python -m venv env
-# command for activating the virtual environment : env\scripts\activate
+#### command for creating virtual environment : python -m venv env
+#### command for activating the virtual environment : env\scripts\activate
